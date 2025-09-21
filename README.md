@@ -1,4 +1,4 @@
-# 翻墙机场 | 9月21日18M/S|免费SSR/Clash/Shadowrocket/V2ray节点推荐，在线Clash机场梯子购买推荐  更新时间 2025-09-21 10:32:02
+# 翻墙机场 | 9月21日22.9M/S|免费Clash/SSR/Shadowrocket/V2ray节点推荐，在线Clash机场梯子购买推荐  更新时间 2025-09-21 21:19:57
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiang-jichang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
