@@ -1,4 +1,4 @@
-# Top Clash节点 | 1月6日23M/S|免费V2ray节点/Clash节点/Shadowrocket节点/SSR节点/Singbox节点机场推荐，在线Clash机场梯子购买推荐  更新时间 2026-01-06 10:03:36
+# Top Clash节点 | 1月14日20.9M/S|免费Singbox节点/V2ray节点/SSR节点/Shadowrocket节点/Clash节点机场推荐，在线Clash机场梯子购买推荐  更新时间 2026-01-14 17:52:33
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiang-jichang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://fanqiang-jichang.github.io/uploads/2026/01/0-20260106.yaml
-- https://fanqiang-jichang.github.io/uploads/2026/01/1-20260106.yaml
-- https://fanqiang-jichang.github.io/uploads/2026/01/2-20260106.yaml
-- https://fanqiang-jichang.github.io/uploads/2026/01/3-20260106.yaml
-- https://fanqiang-jichang.github.io/uploads/2026/01/4-20260106.yaml
+- https://fanqiang-jichang.github.io/uploads/2026/01/0-20260114.yaml
+- https://fanqiang-jichang.github.io/uploads/2026/01/1-20260114.yaml
+- https://fanqiang-jichang.github.io/uploads/2026/01/2-20260114.yaml
+- https://fanqiang-jichang.github.io/uploads/2026/01/3-20260114.yaml
+- https://fanqiang-jichang.github.io/uploads/2026/01/4-20260114.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://fanqiang-jichang.github.io/uploads/2026/01/0-20260106.txt
-- https://fanqiang-jichang.github.io/uploads/2026/01/1-20260106.txt
-- https://fanqiang-jichang.github.io/uploads/2026/01/2-20260106.txt
-- https://fanqiang-jichang.github.io/uploads/2026/01/3-20260106.txt
-- https://fanqiang-jichang.github.io/uploads/2026/01/4-20260106.txt
+- https://fanqiang-jichang.github.io/uploads/2026/01/0-20260114.txt
+- https://fanqiang-jichang.github.io/uploads/2026/01/1-20260114.txt
+- https://fanqiang-jichang.github.io/uploads/2026/01/2-20260114.txt
+- https://fanqiang-jichang.github.io/uploads/2026/01/3-20260114.txt
+- https://fanqiang-jichang.github.io/uploads/2026/01/4-20260114.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://fanqiang-jichang.github.io/uploads/2026/01/20260106.json
+- https://fanqiang-jichang.github.io/uploads/2026/01/20260114.json
 
 ## 更多Clash节点订阅 ：
 
